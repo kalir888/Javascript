@@ -8,7 +8,6 @@
         }else {
             reject(stundent1);
         }
-        
     });
 
     promise.then(function(stundent1) {
